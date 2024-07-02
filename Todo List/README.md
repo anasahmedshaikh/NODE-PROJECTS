@@ -1,2 +1,2 @@
 # todo-list
-simple cmd todo list
+npx command: npx anas-todo-list
