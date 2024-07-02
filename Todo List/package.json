@@ -1,6 +1,6 @@
 {
   "name": "anas-todo-list",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "simple cmd todo list",
   "main": "index.js",
   "type": "module",
