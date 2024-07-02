@@ -8,7 +8,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Anas ahmed",
+  "author": "Anas ahmed Shaikh",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.16"
