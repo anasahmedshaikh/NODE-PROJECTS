@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let accountNo = 112233;
 let balance = 100000;
