@@ -1,2 +1,2 @@
-# This is a Simple CLI Based Currency Convertor with typescript.
+# Currency Convertor.
 npx command: npx anas-currency-converter
