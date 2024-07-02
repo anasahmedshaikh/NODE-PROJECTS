@@ -1,6 +1,6 @@
 {
-  "name": "atm",
-  "version": "1.0.0",
+  "name": "anas-atm",
+  "version": "1.0.1",
   "description": "class project atm",
   "main": "index.js",
   "type": "module",
